@@ -1,7 +1,8 @@
 # Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding
 
 # Installation
-This repository contains the pytorch codes for deployment and the trained models described in the paper "Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding"[PDF coming soon]().
+This repository contains the pytorch codes for deployment and the trained models described in the paper "Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding" [[PDF coming soon]()].
+
 **Results**
 
 - Caltech UCSD Birds
@@ -27,12 +28,12 @@ This repository contains the pytorch codes for deployment and the trained models
 |  baseline | 90.0 | 88.2 |
 | HSE(ours) | 90.0 | 89.4 |
 
+
 # Deployment
 
 **Requirement**
 
 - pytorch, tested on [v0.4.0](http://download.pytorch.org/whl/cu80/torch-0.4.0-cp27-cp27mu-linux_x86_64.whl)
-- scipy
 - CUDA, tested on v8.0
 - Language: Python 2.7
 
@@ -80,9 +81,9 @@ The datasets can be downloaded here:
 [Vegfru](https://github.com/ustc-vim/vegfru) 
 
 ## 2. Download trained models
-The models can be downloaded via [BaiduyunDisk]() or [Dropbox(coming soon)]():
+The models can be downloaded via [BaiduyunDisk(coming soon)]() or [Dropbox(coming soon)]():
 
-- Caltech UCSD Birds
+<!-- - Caltech UCSD Birds
 
 HSE: [HSE_4levels]()
 
@@ -98,7 +99,7 @@ baseline: [family](), [subfamily](), [genus](), [class]()
 
 HSE: [HSE_2levels]()
 
-baseline: [sup](), [sub]()
+baseline: [sup](), [sub]() -->
 
 ## 3. Deployment
 Firstly, make sure the working directory is `$HSE_ROOT`, or
