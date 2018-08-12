@@ -83,7 +83,8 @@ def main():
     cudnn.benchmark = True
 
     print "Testing..."
-    validate(test_loader, model, args)
+    with torch.no_grad():
+        validate(test_loader, model, args)
 
 def validate(val_loader, model, args):
     batch_time = AverageMeter()
