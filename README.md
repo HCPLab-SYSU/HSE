@@ -1,7 +1,34 @@
-# Disclaimer
+# Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding
 
 # Installation
-**requirement**
+This repository contains the pytorch codes for deployment and the trained models described in the paper "Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding"[PDF coming soon]().
+**Results**
+
+- Caltech UCSD Birds
+
+|  |order|family|genus|class|
+|----｜:----:|:----:|:----:|:----:|
+|baseline｜98.8|95.3|91.8|85.7|
+|HSE(ours)｜98.8|95.7|92.7|88.1|
+
+
+- Butterfly200
+
+|  |family|subfamily|genus|class|
+|----｜:----:|:----:|:----:|:----:|
+|baseline｜99.0|97.6|94.8|85.1|
+|HSE(ours)｜99.0|97.7|95.4|86.1|
+
+- Vegfru
+
+|  |sup|sub|
+|----｜:----:|:----:|
+|baseline｜90.0|88.2|
+|HSE(ours)｜90.0|89.4|
+
+# Deployment
+
+**Requirement**
 
 - pytorch, tested on [v0.4.0](http://download.pytorch.org/whl/cu80/torch-0.4.0-cp27-cp27mu-linux_x86_64.whl)
 - scipy
@@ -52,7 +79,7 @@ The datasets can be downloaded here:
 [Vegfru](https://github.com/ustc-vim/vegfru) 
 
 ## 2. Download trained models
-The models can be downloaded here:
+The models can be downloaded via [BaiduyunDisk]() or [Dropbox(coming soon)]():
 
 - Caltech UCSD Birds
 
