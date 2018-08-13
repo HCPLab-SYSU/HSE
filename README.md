@@ -43,12 +43,12 @@ Clone the Hierarchical Semantic Embedding project by:
 ```
 git clone https://github.com/HCPLab-SYSU/HSE.git
 ```
-and we denote the folder `hse-mm2018` as `$HSE_ROOT`.
+and we denote the folder `HSE` as `$HSE_ROOT`.
 
 **Note that**, the correct structure of `$HSE_ROOT` is like:
 
 ```
-hse-mm2018
+HSE
 .
 ├── code
 │   ├── Butterfly200
