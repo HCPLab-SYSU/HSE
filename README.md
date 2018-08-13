@@ -9,8 +9,8 @@ This repository contains the pytorch codes for deployment and the trained models
 
 |        | order | family | genus | class |
 | :----: | :---: | :----: | :---: | :---: |
-|baseline| 98.8 | 95.3 | 91.8 | 85.7 |
-|HSE(ours)| 98.8 | 95.7 | 92.7 | 88.1 |
+|baseline| 98.8  |  95.0  |  91.5 |  85.2 |
+|HSE(ours)| 98.8 |  95.7  |  92.7 |  88.1 |
 
 
 
@@ -18,15 +18,15 @@ This repository contains the pytorch codes for deployment and the trained models
 
 |        | family | subfamily | genus | species |
 | :----: | :----: | :-------: | :---: | :-----: |
-|baseline|99.0|97.6|94.8|85.1|
-|HSE(ours)|99.0|97.7|95.4|86.1|
+|baseline|  99.0  |   97.6    |  94.8 |  85.1   |
+|HSE(ours)| 99.0  |   97.7    |  95.4 |  86.1   |
 
 - Vegfru
 
 |           |  sup  |  sub  |
 | :-------: | :---: | :---: |
-|  baseline | 90.0 | 88.2 |
-| HSE(ours) | 90.0 | 89.4 |
+|  baseline | 90.0  |  87.1 |
+| HSE(ours) | 90.0  |  89.4 |
 
 
 # Deployment
