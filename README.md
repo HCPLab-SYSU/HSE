@@ -49,27 +49,32 @@ and we denote the folder `hse-mm2018` as `$HSE_ROOT`.
 
 ```
 hse-mm2018
-|-- data
-|   |-- CUB_2011_200
-|   |-- Butterfly200
-|   |-- Verfru
-|   |-- ...
-|-- models
-|   |-- CUB_2011_200
-|   |-- Butterfly200
-|   |-- Verfru
-|   |-- ...        
-|-- code
-|   |-- CUB_2011_200
-|   |-- Butterfly200
-|   |-- Verfru
-|   |-- ...
-|-- scripts
-|   |-- CUB_2011_200
-|   |-- Butterfly200
-|   |-- Verfru
-|   |-- ...
+.
+├── code
+│   ├── Butterfly200
+│   │   ├── baseline
+│   │   └── HSE
+│   ├── CUB_200_2011
+│   │   ├── baseline
+│   │   └── HSE
+│   └── Vegfru
+│       ├── baseline
+│       └── HSE
+├── data
+│   ├── Butterfly200
+│   │   └── images
+│   ├── CUB_200_2011
+│   │   └── images
+│   └── Vegfru
+│       └── images
+├── models
+│   ├── Butterfly200
+│   ├── CUB_200_2011
+│   └── Vegfru
+└── scripts
+
 ```
+
 
 ## 2. Download datasets
 The datasets can be downloaded here:
