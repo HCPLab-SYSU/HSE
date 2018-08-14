@@ -86,15 +86,7 @@ hse-mm2018
 **Note th**
 
 ## 2. Download trained models
-The trained models of our HSE framework and the baseline methods on the extended Caltech UCSD birds, Butterfly-200, and VegFru datasets can be downloaded from [dropbox] pr [BaiduyunDisk](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
-
-- Caltech UCSD Birds
-
-[all models](https://pan.baidu.com/s/1LO_31tJe76DJFXXfc21STQ)
-
-HSE: [HSE_4levels](https://pan.baidu.com/s/1GIGQQFzCy9GVhdwgDTPVdg)
-
-baseline: [ordel](https://pan.baidu.com/s/1tOmXoiA1RESF1JMnUpbq9w), [family](https://pan.baidu.com/s/1FBYyPvb5eputq6BVysXURQ), [genus](https://pan.baidu.com/s/1tNb9pjI-Irwyqynott27ag), [class](https://pan.baidu.com/s/1R0VghAkl7zzQODjyitWxsA)
+The trained models of our HSE framework and the baseline methods on the extended Caltech UCSD birds, Butterfly-200, and VegFru datasets can be downloaded from [dropbox]() pr [BaiduyunDisk](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
 
 ## 3. Deployment
 Firstly, make sure the working directory is `$HSE_ROOT`, or
