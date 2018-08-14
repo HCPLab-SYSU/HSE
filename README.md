@@ -1,6 +1,6 @@
 # Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding
 
-# Installation
+# Introduction
 This repository contains the pytorch codes for deployment and the trained models described in the paper "Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding" [[PDF coming soon]()].
 
 **Results**
@@ -43,12 +43,12 @@ Clone the Hierarchical Semantic Embedding project by:
 ```
 git clone https://github.com/HCPLab-SYSU/HSE.git
 ```
-and we denote the folder `HSE` as `$HSE_ROOT`.
+and we denote the folder `hse-mm2018` as `$HSE_ROOT`.
 
 **Note that**, the correct structure of `$HSE_ROOT` is like:
 
 ```
-HSE
+hse-mm2018
 .
 ├── code
 │   ├── Butterfly200
@@ -77,7 +77,7 @@ HSE
 
 
 ## 2. Download datasets
-The datasets can be downloaded here:
+You can get the datasets from:
 
 [Caltech UCSD Birds](http://www.vision.caltech.edu/visipedia/CUB-200.html) , and its [hierarchical category annotations](https://www.dropbox.com/sh/kugj7vogy2no795/AABJWUxM6rXWOeNbCUPj269ua?dl=0) provided by us.
 
@@ -85,26 +85,36 @@ The datasets can be downloaded here:
 
 [Vegfru](https://github.com/ustc-vim/vegfru) 
 
+**Note th**
+
 ## 2. Download trained models
-The models can be downloaded via [BaiduyunDisk(coming soon)]() or [Dropbox(coming soon)]():
+The models can be downloaded via [BaiduyunDisk (all)](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
 
-<!-- - Caltech UCSD Birds
+- Caltech UCSD Birds
 
-HSE: [HSE_4levels]()
+[all models](https://pan.baidu.com/s/1LO_31tJe76DJFXXfc21STQ)
 
-baseline: [ordel](), [family](), [genus](), [class]()
+HSE: [HSE_4levels](https://pan.baidu.com/s/1GIGQQFzCy9GVhdwgDTPVdg)
+
+baseline: [ordel](https://pan.baidu.com/s/1tOmXoiA1RESF1JMnUpbq9w), [family](https://pan.baidu.com/s/1FBYyPvb5eputq6BVysXURQ), [genus](https://pan.baidu.com/s/1tNb9pjI-Irwyqynott27ag), [class](https://pan.baidu.com/s/1R0VghAkl7zzQODjyitWxsA)
 
 - Butterfly200
 
-HSE: [HSE_4levels]()
+[all models](https://pan.baidu.com/s/1tOmXoiA1RESF1JMnUpbq9w)
 
-baseline: [family](), [subfamily](), [genus](), [class]()
+HSE: [HSE_4levels](https://pan.baidu.com/s/1-a734IsAJYtjH2INCUxkvQ)
+
+baseline: [family](https://pan.baidu.com/s/1UO2q5XMUtALm1C2apNW6nA), [subfamily](https://pan.baidu.com/s/1hYSDbMtbDO9N48zmmlWs1w), [genus](https://pan.baidu.com/s/1DrkUwIMnphO-R7Fru0FG_A), [species](https://pan.baidu.com/s/1EFTqiwVb_Y0Bfj9bcu9eIA)
 
 - Vegfru
 
-HSE: [HSE_2levels]()
+[all models](https://pan.baidu.com/s/1uYEZFFX6dxvwam4XTMH_XQ)
 
-baseline: [sup](), [sub]() -->
+HSE: [HSE_2levels](https://pan.baidu.com/s/1u6WlCVXEgC189xfcRRbmjg)
+
+baseline: [sup](https://pan.baidu.com/s/17GfovAVzBwH_6gLplzjbJw), [sub](https://pan.baidu.com/s/16D6Sm8aJNMVu7T7BIlArZg)
+
+or Download from [Dropbox (coming soon)]().
 
 ## 3. Deployment
 Firstly, make sure the working directory is `$HSE_ROOT`, or
