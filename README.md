@@ -76,9 +76,8 @@ hse-mm2018
 ```
 
 ## 2. Download datasets
-You can download the datasets from:
 
-[Caltech UCSD Birds](http://www.vision.caltech.edu/visipedia/CUB-200.html), and its [hierarchical category annotations](https://www.dropbox.com/sh/kugj7vogy2no795/AABJWUxM6rXWOeNbCUPj269ua?dl=0) provided by us.
+[Caltech UCSD Birds](http://www.vision.caltech.edu/visipedia/CUB-200.html) originally covers 200 classes of birds, and we further extend this dataset with a [four-level category hierarchy](https://www.dropbox.com/sh/kugj7vogy2no795/AABJWUxM6rXWOeNbCUPj269ua?dl=0) .
 
 [Butterfly 200](https://www.dropbox.com/sh/3p4x1oc5efknd69/AABwnyoH2EKi6H9Emcyd0pXCa?dl=0) (including its hierarchical category annotation)
 
