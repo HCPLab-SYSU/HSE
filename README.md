@@ -86,7 +86,7 @@ hse-mm2018
 **Note th**
 
 ## 2. Download trained models
-The trained models can be downloaded from [BaiduyunDisk (all)](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
+The trained models of our HSE framework and the baseline methods on the extended Caltech UCSD birds, Butterfly-200, and VegFru datasets can be downloaded from [dropbox] pr [BaiduyunDisk](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
 
 - Caltech UCSD Birds
 
@@ -95,24 +95,6 @@ The trained models can be downloaded from [BaiduyunDisk (all)](https://pan.baidu
 HSE: [HSE_4levels](https://pan.baidu.com/s/1GIGQQFzCy9GVhdwgDTPVdg)
 
 baseline: [ordel](https://pan.baidu.com/s/1tOmXoiA1RESF1JMnUpbq9w), [family](https://pan.baidu.com/s/1FBYyPvb5eputq6BVysXURQ), [genus](https://pan.baidu.com/s/1tNb9pjI-Irwyqynott27ag), [class](https://pan.baidu.com/s/1R0VghAkl7zzQODjyitWxsA)
-
-- Butterfly200
-
-[all models](https://pan.baidu.com/s/1tOmXoiA1RESF1JMnUpbq9w)
-
-HSE: [HSE_4levels](https://pan.baidu.com/s/1-a734IsAJYtjH2INCUxkvQ)
-
-baseline: [family](https://pan.baidu.com/s/1UO2q5XMUtALm1C2apNW6nA), [subfamily](https://pan.baidu.com/s/1hYSDbMtbDO9N48zmmlWs1w), [genus](https://pan.baidu.com/s/1DrkUwIMnphO-R7Fru0FG_A), [species](https://pan.baidu.com/s/1EFTqiwVb_Y0Bfj9bcu9eIA)
-
-- Vegfru
-
-[all models](https://pan.baidu.com/s/1uYEZFFX6dxvwam4XTMH_XQ)
-
-HSE: [HSE_2levels](https://pan.baidu.com/s/1u6WlCVXEgC189xfcRRbmjg)
-
-baseline: [sup](https://pan.baidu.com/s/17GfovAVzBwH_6gLplzjbJw), [sub](https://pan.baidu.com/s/16D6Sm8aJNMVu7T7BIlArZg)
-
-or Download from [Dropbox (coming soon)]().
 
 ## 3. Deployment
 Firstly, make sure the working directory is `$HSE_ROOT`, or
