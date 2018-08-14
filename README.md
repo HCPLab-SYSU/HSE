@@ -1,7 +1,7 @@
 # Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding
 
 # Introduction
-This repository contains the pytorch codes for deployment and the trained models described in the paper "Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding" [[PDF coming soon]()].
+This repository contains the pytorch codes, trained models, and datasets described in the paper "Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding" [[PDF coming soon]()].
 
 **Results**
 
@@ -29,7 +29,7 @@ This repository contains the pytorch codes for deployment and the trained models
 | HSE(ours) | 90.0  |  89.4 |
 
 
-# Deployment
+# Installation
 
 **Requirement**
 
@@ -75,7 +75,6 @@ hse-mm2018
 
 ```
 
-
 ## 2. Download datasets
 You can get the datasets from:
 
@@ -88,7 +87,7 @@ You can get the datasets from:
 **Note th**
 
 ## 2. Download trained models
-The models can be downloaded via [BaiduyunDisk (all)](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
+The models can be downloaded from [BaiduyunDisk (all)](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
 
 - Caltech UCSD Birds
 
