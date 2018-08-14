@@ -5,7 +5,7 @@ This repository contains the pytorch codes, trained models, and datasets describ
 
 **Results**
 
-- Caltech UCSD Birds
+- Accuracy on Caltech UCSD Birds
 
 |        | order | family | genus | class |
 | :----: | :---: | :----: | :---: | :---: |
@@ -14,14 +14,14 @@ This repository contains the pytorch codes, trained models, and datasets describ
 
 
 
-- Butterfly200
+- Accuracy on Butterfly200
 
 |        | family | subfamily | genus | species |
 | :----: | :----: | :-------: | :---: | :-----: |
 |baseline|  98.9  |   97.6    |  94.8 |  85.1   |
 |HSE(ours)| 98.9  |   97.7    |  95.4 |  86.1   |
 
-- Vegfru
+- Accuracy on Vegfru
 
 |           |  sup  |  sub  |
 | :-------: | :---: | :---: |
