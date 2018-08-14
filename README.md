@@ -84,7 +84,7 @@ hse-mm2018
 [Vegfru](https://github.com/ustc-vim/vegfru) is proposed by [Hou et al., ICCV2017](http://home.ustc.edu.cn/~saihui/project/vegfru/iccv17_vegfru.pdf), and it covers two-level categories.
 
 ## 3. Download trained models
-The trained models of our HSE framework and the baseline methods on the extended Caltech UCSD birds, Butterfly-200, and VegFru datasets can be downloaded from [dropbox]() or [Baidu Cloud](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A):
+The trained models of our HSE framework and the baseline methods on the extended Caltech UCSD birds, Butterfly-200, and VegFru datasets can be downloaded from [dropbox](https://www.dropbox.com/sh/4x1k3txsu9c6ux1/AADdaaq6wG_Q_VpYygolJ3wda?dl=0) or [Baidu Cloud](https://pan.baidu.com/s/1WWalFQFiNCCrWr30pvEA6A).
 
 ## 4. Deployment
 Firstly, make sure the working directory is `$HSE_ROOT`, or
