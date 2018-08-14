@@ -77,7 +77,7 @@ hse-mm2018
 
 ## 2. Download datasets
 
-[Caltech UCSD Birds](http://www.vision.caltech.edu/visipedia/CUB-200.html) originally covers 200 classes of birds, and we further extend this dataset with a [four-level category hierarchy](https://www.dropbox.com/sh/kugj7vogy2no795/AABJWUxM6rXWOeNbCUPj269ua?dl=0) .
+[Caltech UCSD Birds](http://www.vision.caltech.edu/visipedia/CUB-200.html) originally covers 200 classes of birds, and we  extend this dataset with a [four-level category hierarchy](https://www.dropbox.com/sh/kugj7vogy2no795/AABJWUxM6rXWOeNbCUPj269ua?dl=0) .
 
 [Butterfly 200](https://www.dropbox.com/sh/3p4x1oc5efknd69/AABwnyoH2EKi6H9Emcyd0pXCa?dl=0) is constructed in our paper, it also cover four-level categories.
 
