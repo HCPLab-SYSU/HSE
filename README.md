@@ -1,7 +1,7 @@
 # Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding
 
 # Introduction
-This repository contains the pytorch codes, trained models, and datasets described in the paper "Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding" [[PDF coming soon]()].
+This repository contains the pytorch codes, trained models, and datasets described in the paper "[Fine-Grained Representation Learning and Recognition by Exploiting Hierarchical Semantic Embedding](https://arxiv.org/abs/1808.04505)".
 
 **Results**
 
